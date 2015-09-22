@@ -1,4 +1,4 @@
-# XSChart 机智的新手
+# XSChart Will
 
 轻量级的折线图应用
 ##拆线图
